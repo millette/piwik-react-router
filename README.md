@@ -27,7 +27,7 @@ or
 
 Simply create your instance with the same `url` and `siteId` as described in the piwik [documentation](https://developer.piwik.org/guides/tracking-javascript-guide) and connect it to your `history` object.
 
-_Starting with v2.0 react-router won't provide a default history. [Why?](https://github.com/rackt/react-router/blob/master/upgrade-guides/v2.0.0.md#no-default-history)_.
+_Starting with v2.0 react-router won't provide a default history. [Why?](https://github.com/ReactTraining/react-router/blob/v2.8.1/upgrade-guides/v2.0.0.md#no-default-history)_.
 
 ```jsx
 const PiwikReactRouter = require('piwik-react-router');
